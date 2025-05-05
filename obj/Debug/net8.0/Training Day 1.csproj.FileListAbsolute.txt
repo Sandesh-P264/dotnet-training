@@ -1,0 +1,14 @@
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\bin\Debug\net8.0\Training Day 1.exe
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\bin\Debug\net8.0\Training Day 1.deps.json
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\bin\Debug\net8.0\Training Day 1.runtimeconfig.json
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\bin\Debug\net8.0\Training Day 1.dll
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\bin\Debug\net8.0\Training Day 1.pdb
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\obj\Debug\net8.0\Training Day 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\obj\Debug\net8.0\Training Day 1.AssemblyInfoInputs.cache
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\obj\Debug\net8.0\Training Day 1.AssemblyInfo.cs
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\obj\Debug\net8.0\Training Day 1.csproj.CoreCompileInputs.cache
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\obj\Debug\net8.0\Training Day 1.dll
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\obj\Debug\net8.0\refint\Training Day 1.dll
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\obj\Debug\net8.0\Training Day 1.pdb
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\obj\Debug\net8.0\Training Day 1.genruntimeconfig.cache
+C:\Users\Siddhatech\source\repos\Training Day 1\Training Day 1\obj\Debug\net8.0\ref\Training Day 1.dll
