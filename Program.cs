@@ -71,6 +71,7 @@ namespace ConsoleApp
             } while (input != null && input.ToLower() == "y");
 
             Console.WriteLine("\n=== List of People ===");
+           // Console.WriteLine("\n=== List of People ===");
 
             foreach (var p in people)
             {
